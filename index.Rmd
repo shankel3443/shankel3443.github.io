@@ -1,0 +1,9 @@
+---
+title: "Simple Website"
+output: html_document
+---
+
+# The Simple Yet Awesome Website
+## Note: The 2 lines of text above are the YAML tags
+### We will knit this RMD to a html file next
+Then push index.html to the github.io repo
